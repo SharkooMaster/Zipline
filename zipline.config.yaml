@@ -1,0 +1,8 @@
+mode: local
+theme: monokai
+bgColor: '#020308'
+local:
+  url: http://localhost:1234/v1/chat
+  model: MODEL_NAME
+hosted:
+  api_key: ZIPLINE_API_KEY
